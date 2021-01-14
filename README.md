@@ -7,4 +7,4 @@ know each other). She wants to invite as many as possible persons, subject to
 the constraints: for each person attending the party (i) at least k << n other
 persons who know (ii) at least k persons in the party who do not know.
 
-here I develop an algorithm which solve the problem effectively.
+Here I develop an algorithm which solve the problem effectively.
