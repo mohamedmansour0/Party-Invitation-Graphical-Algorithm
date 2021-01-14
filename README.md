@@ -1,1 +1,1 @@
-# Party-Invitation-Graphical_Algorithm
+# Party-Invitation-Graphical-Algorithm
